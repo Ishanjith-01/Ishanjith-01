@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishanjith Bandara</h1>
 <h3 align="center">Crafting Code, Building Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanjith-01&label=Profile%20views&color=0e75b6&style=flat" alt="ishanjith-01" /> </p>
 
 - 🌱 I’m currently learning **java, Kotlin**
 
@@ -9,7 +8,6 @@
 
 - 📫 How to reach me **ishanjithbandara@gmail.com**
 
-- ⚡ Fun fact **call me as bunty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
